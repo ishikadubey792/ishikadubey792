@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishikadubey792&show_icons=true&locale=en&layout=compact" alt="ishikadubey792" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishikadubey792&show_icons=true&locale=en" alt="ishikadubey792" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikadubey792&" alt="ishikadubey792" /></p>
